@@ -1,0 +1,17 @@
+Source Name	Characteristics[organism]	Term Source REF	Term Accession Number	Protocol REF	Parameter Value[temperature]	Unit	Term Source REF	Term Accession Number	Parameter Value[lights]	Unit	Term Source REF	Term Accession Number	Parameter Value[Nutrition]	Protocol REF	Sample Name	Characteristics[tissue type]	Term Source REF	Term Accession Number	Factor Value[Chronic social defeat stress]
+individual1	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample1	prefrontal cortex	EFO	UBERON:0000451	Control
+individual2	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample2	prefrontal cortex	EFO	UBERON:0000451	Control
+individual3	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample3	prefrontal cortex	EFO	UBERON:0000451	Control
+individual4	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample4	prefrontal cortex	EFO	UBERON:0000451	Control
+individual5	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample5	prefrontal cortex	EFO	UBERON:0000451	Control
+individual6	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample6	prefrontal cortex	EFO	UBERON:0000451	Control
+individual7	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample7	prefrontal cortex	EFO	UBERON:0000451	Control
+individual8	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample8	prefrontal cortex	EFO	UBERON:0000451	Control
+individual9	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample9	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual10	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample10	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual11	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample11	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual12	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample12	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual13	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample13	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual14	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample14	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual15	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample15	prefrontal cortex	EFO	UBERON:0000451	Treatment
+individual16	C57BL/6	EFO	EFO:0004472	growth	23 ± 2	°C	EFO	UO:0000027	8:00-20:00	hour	EFO	UO:0000032	freely	sample collection	Sample16	prefrontal cortex	EFO	UBERON:0000451	Treatment
